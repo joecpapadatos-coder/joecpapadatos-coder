@@ -24,6 +24,8 @@ My role centres on defining the business problem, shaping the questions and work
 
 The work includes reviewing responses for missing context, unsupported assumptions and practical decision value. Sentio remains in development; its working repositories are private.
 
+[Read the Sentio project summary](https://github.com/joecpapadatos-coder/joecpapadatos-coder/blob/main/SENTIO.md)
+
 ## How I work with AI
 
 I use ChatGPT, Gemini and Claude for research and analysis, and Cursor and Codex to support prototype development.
